@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Preetdudhat03
 - 👀 I love Drone technology and I have little bit experience in drone making
 - My other interest in Ethical Hacking I learn about basic computer networking and i have some experience in ubuntu and kali linux 
-- 🌱 I’m currently learning: Diploma I.T. in 2nd year in Shri Bhagubhai Mafatlal Polytechnic Munbai,India
+- 🌱 I’m currently learning: Diploma I.T. in 3nd year in Shri Bhagubhai Mafatlal Polytechnic Munbai,India
 - 💞️ I’m looking for: A greate teacher/guru who teach me more about Drones and Ethical Hacking  
 - 📫 How to reach me: MY gmail is "preet.dudhat2006@gmail.com"
 - 😄 Pronouns: He/Him
