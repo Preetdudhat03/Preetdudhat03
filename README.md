@@ -16,7 +16,7 @@ By default, the README shows the Futuristic banner.
 # Hi, I’m Preet 👋
 
 - 👀 Passionate about **Drone Technology** with hands‑on experience building and tuning drones.
-- 🛠️ Currently at **RTE Transweigh India Pvt. Ltd.** on a **contract-based Industrial Drone** project.
+- 🛠️ EX Intern at **RTE Transweigh India Pvt. Ltd.** on a **contract-based Industrial Drone** project.
 - 🧑‍💻 Deep interest in **Ethical Hacking/Cybersecurity** — basics of computer networking, **Ubuntu** & **Kali Linux**.
 - 🎓 Education:
   - ✅ **Diploma in I.T.** (83.87%) — *Shri Bhagubhai Mafatlal Polytechnic, Mumbai*.
