@@ -3,7 +3,7 @@
 <!-- ================================================== -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner2.png"
+    src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner4.png"
     alt="Preet Dudhat — Drones • AI • Cybersecurity"
     width="100%" />
 </p>
