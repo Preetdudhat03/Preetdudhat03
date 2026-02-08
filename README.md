@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner2.png"
        alt="Preet Dudhat — Drones • AI • Cybersecurity"
-       width="100%" />
+       width="100%" 
+       height="50%" />
 </p>
 
 <h1 align="center">Hi, I’m Preet Dudhat 👋</h1>
