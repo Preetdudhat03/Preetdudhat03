@@ -93,13 +93,7 @@ I enjoy working at the intersection of **hardware, software, and security**, and
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight"
-    height="165" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight" />
 </p>
 
 ---
