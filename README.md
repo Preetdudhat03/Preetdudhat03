@@ -115,11 +115,11 @@ and connect with me — I’m always open to learning and collaboration.
 ---
 
 <!-- OPTIONAL: Minimal Banner -->
-<!--
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner-minimal.png"
        alt="Preet Dudhat — Minimal Theme"
        width="100%" />
 </p>
--->
+
 
