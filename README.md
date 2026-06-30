@@ -121,7 +121,3 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
   I’m always open to learning and collaboration.
 </p>
 
-<!-- OPTIONAL: Minimal Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner-minimal.png" alt="Preet Dudhat — Minimal Theme" width="100%" />
-</p>
