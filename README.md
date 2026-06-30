@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About Me
 
-I am a **hands-on tech learner and builder** deeply interested in **Industrial Drone Systems, Cybersecurity, and AI/ML**. I thrive at the intersection of **hardware, software, and security**, consistently challenging myself to learn by building real-world systems.
+I am a **hands-on tech learner and builder** deeply interested in **Industrial Drone Systems, Cybersecurity, and AI/ML**. My journey began with an IT diploma, and I've since developed a strong passion for protecting digital systems. I thrive at the intersection of **hardware, software, and security**, consistently challenging myself to learn by building real-world systems.
 
-- 🚁 **Drone Technology:** Designing, assembling, tuning, and deploying drones for industrial use-cases.
-- 🔐 **Cybersecurity:** Focused on networking fundamentals and ethical hacking through Linux-based security labs.
+- 🚁 **Drone Technology:** Handling coding responsibilities and 3D frame design for industrial drones.
+- 🔐 **Cybersecurity:** Focused on threat analysis, vulnerability scanning, ethical hacking, and secure development.
 - 🧠 **AI & Machine Learning:** Developing practical Python-based AI/ML workflows and experimentation.
 
 <br/>
@@ -41,15 +41,26 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 <table width="100%">
   <tr>
     <td width="40%" valign="top">
-      <strong>Ex-Intern — RTE Transweigh India Pvt. Ltd.</strong><br/>
-      <em>Industrial Drone Project (Contract-Based)</em>
+      <strong>Drone Developer — RTE Transweigh India Pvt. Ltd.</strong><br/>
+      <em>Jun 2025 - Present</em>
     </td>
     <td width="60%" valign="top">
       <ul>
-        <li>Developed industrial drones for real-world applications.</li>
-        <li>Specialized in frame selection, power system sizing, ESC & flight controller configuration.</li>
-        <li>Executed PID tuning and flight optimization for stability and performance.</li>
-        <li>Navigated engineering constraints, safety protocols, and deployment environments.</li>
+        <li>Working on an ongoing industrial drone project handling both coding and 3D frame design (AutoCAD) for the drone's body.</li>
+        <li>Exploring system efficiency and embedded technologies.</li>
+        <li>Executing PID tuning and flight optimization for stability and performance.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" valign="top">
+      <strong>Cybersecurity Intern — DCyber Tech Lab</strong><br/>
+      <em>May 2024 – Jun 2024</em>
+    </td>
+    <td width="60%" valign="top">
+      <ul>
+        <li>Gained foundational knowledge in cybersecurity, basic security practices, and threat analysis.</li>
+        <li>Conducted vulnerability scanning in a real-world environment.</li>
       </ul>
     </td>
   </tr>
@@ -59,7 +70,7 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 
 ### 🚀 Notable Projects
 
-- 🛡️ **UEBA Security Module**: Developed a final-year project integrating a User and Entity Behavior Analytics (UEBA) module for enhanced threat detection.
+- 🛡️ **UEBA Security Module**: Led frontend development and integrated a basic User and Entity Behavior Analytics (UEBA) module to detect unusual activity and improve system security for a final-year diploma project (Jan - Mar 2025).
 - 📱 **Mobile Game Development**: Designed and built a mobile game leveraging **Unity** and **Android Studio**.
 - 🌐 **Personal Portfolio**: Designed and developed my portfolio website from scratch using **Next.js** and **React** to showcase my journey and projects.
 - 📊 **Data & Emerging Tech**: Explored data analysis using **Tableau** and studied the fundamentals of **Blockchain, Ethereum, and IoT Security**.
@@ -93,24 +104,34 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <br/>
   <!-- Web & Cloud -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br/>
   <!-- Data, AI & Design -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <br/>
-  <!-- OS & Security -->
+  <!-- OS, DevOps & Security -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <br/>
   <img src="https://img.shields.io/badge/Computer%20Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Drone%20Tech-000000?style=for-the-badge&logo=dji&logoColor=white" alt="Drone Technology" />
