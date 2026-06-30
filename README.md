@@ -57,6 +57,15 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 
 <br/>
 
+### 🚀 Notable Projects
+
+- 🛡️ **UEBA Security Module**: Developed a final-year project integrating a User and Entity Behavior Analytics (UEBA) module for enhanced threat detection.
+- 📱 **Mobile Game Development**: Designed and built a mobile game leveraging **Unity** and **Android Studio**.
+- 🌐 **Personal Portfolio**: Designed and developed my portfolio website from scratch using **Next.js** and **React** to showcase my journey and projects.
+- 📊 **Data & Emerging Tech**: Explored data analysis using **Tableau** and studied the fundamentals of **Blockchain, Ethereum, and IoT Security**.
+
+<br/>
+
 ### 🎓 Education
 
 <table width="100%">
@@ -79,11 +88,29 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 ### 🧰 Technical Arsenal
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <br/>
+  <!-- Web & Cloud -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br/>
+  <!-- Data, AI & Design -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <br/>
+  <!-- OS & Security -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <br/>
   <img src="https://img.shields.io/badge/Computer%20Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
   <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Drone%20Tech-000000?style=for-the-badge&logo=dji&logoColor=white" alt="Drone Technology" />
@@ -119,4 +146,3 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
   If you find my projects useful or interesting, feel free to <b>star ⭐ my repositories</b>. <br/>
   I’m always open to learning and collaboration.
 </p>
-
