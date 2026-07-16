@@ -143,6 +143,14 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 
 <br/>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://preet-dudhat-github.vercel.app/?username=Preetdudhat03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Preetdudhat03 Trophies" />
+</div>
+
+<br/>
+
 ### 📈 GitHub Activity Graph
 
 <div align="center">
