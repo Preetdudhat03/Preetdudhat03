@@ -5,13 +5,17 @@
   <img src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/assets/banner4.png" alt="Preet Dudhat — Drones • AI • Cybersecurity" width="100%" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Preetdudhat03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Preet Dudhat!
 </h1>
 
-<h3 align="center">
-  🚀 Drone Engineer | 🔐 Cybersecurity Enthusiast | 🧠 AI/ML Student
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2386F5&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Drone+Engineer;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%A7%A0+AI%2FML+Student" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <em>A passionate technologist exploring the intersection of hardware, software, and security.</em>
@@ -139,6 +143,14 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 
 <br/>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Preetdudhat03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Preetdudhat03 Trophies" />
+</div>
+
+<br/>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -146,6 +158,13 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetdudhat03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
