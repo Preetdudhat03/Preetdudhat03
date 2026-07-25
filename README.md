@@ -196,7 +196,7 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 </p>
 
 ### ✨ Dynamic Terminal Profile
-
+<!--
 <div align="center">
   <a href="https://github.com/Preetdudhat03/Preetdudhat03">
     <picture>
@@ -204,5 +204,5 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
       <img alt="Preet Dudhat's GitHub Profile README" src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/light_mode.svg">
     </picture>
   </a>
-</div>
+</div>-->
 
