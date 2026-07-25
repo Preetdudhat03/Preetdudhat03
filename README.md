@@ -194,3 +194,15 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
   If you find my projects useful or interesting, feel free to <b>star ⭐ my repositories</b>. <br/>
   I’m always open to learning and collaboration.
 </p>
+
+### ✨ Dynamic Terminal Profile
+
+<div align="center">
+  <a href="https://github.com/Preetdudhat03/Preetdudhat03">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/dark_mode.svg">
+      <img alt="Preet Dudhat's GitHub Profile README" src="https://raw.githubusercontent.com/Preetdudhat03/Preetdudhat03/main/light_mode.svg">
+    </picture>
+  </a>
+</div>
+
