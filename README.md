@@ -11,6 +11,8 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi there, I'm Preet Dudhat!
+  <br>
+  <span style="font-size: 0.6em; font-weight: normal;">Software Developer | Drone Tech | Cybersecurity Enthusiast</span>
 </h1>
 
 <p align="center">
@@ -30,9 +32,9 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### 👨‍💻 About Preet Dudhat
 
-I am a **hands-on tech learner and builder** deeply interested in **Industrial Drone Systems, Cybersecurity, and AI/ML**. My journey began with an IT diploma, and I've since developed a strong passion for protecting digital systems. I thrive at the intersection of **hardware, software, and security**, consistently challenging myself to learn by building real-world systems.
+I am a **Software Developer and tech enthusiast** from India, deeply focused on **Industrial Drone Systems, Cybersecurity, and AI/ML**. My journey began with an IT diploma, and I've since developed a strong passion for protecting digital systems and engineering hardware. I thrive at the intersection of **hardware, software, and security**, consistently challenging myself to learn by building real-world systems.
 
 - 🚁 **Drone Technology:** Handling coding responsibilities and 3D frame design for industrial drones.
 - 🔐 **Cybersecurity:** Focused on threat analysis, vulnerability scanning, ethical hacking, and secure development.
@@ -162,10 +164,10 @@ I am a **hands-on tech learner and builder** deeply interested in **Industrial D
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Preetdudhat03&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Preetdudhat03&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Preet Dudhat's GitHub Stats - Commits, PRs, and Issues" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Preetdudhat03&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Preet Dudhat's Top Programming Languages - Python, JavaScript, C++" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetdudhat03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetdudhat03&theme=tokyonight&hide_border=true" alt="Preet Dudhat's GitHub Contribution Streak" />
   <br/><br/>
   <!-- Snake Animation -->
   <picture>
