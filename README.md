@@ -48,7 +48,7 @@ I am a **Software Developer and tech enthusiast** from India, deeply focused on 
   <tr>
     <td width="40%" valign="top">
       <strong>Drone Developer — RTE Transweigh India Pvt. Ltd.</strong><br/>
-      <em>Jun 2025 - Present</em>
+      <em>Jun 2025 - Des 2025</em>
     </td>
     <td width="60%" valign="top">
       <ul>
